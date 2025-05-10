@@ -77,7 +77,7 @@
 A simple data science to get started in machine learning! For the full documentation, visit [The project garden](https://happypotatohead.github.io/project-garden/Data-Analysis--and--Machine-Learning/Cardiovascular-Risk-Analysis)
 
 
-<p align="right">(<a href="#readme-top">Back to top</a>)</p>
+<p align="right"><a href="#readme-top">Back to top</a></p>
 
 
 
@@ -97,7 +97,7 @@ A simple data science to get started in machine learning! For the full documenta
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 * [![JQuery][JQuery.com]][JQuery-url] -->
 
-<p align="right">(<a href="#readme-top">Back to top</a>)</p>
+<p align="right"><a href="#readme-top">Back to top</a></p>
 
 
 
@@ -131,7 +131,7 @@ Run `requirements.txt` to get the necessary libraries.
 Check out the full documentation/project showcase on [The Garden!](https://happypotatohead.github.io/project-garden/Data-Analysis--and--Machine-Learning/Cardiovascular-Risk-Analysis)
 
 
-<p align="right">(<a href="#readme-top">Back to top</a>)</p>
+<p align="right"><a href="#readme-top">Back to top</a></p>
 
 
 
@@ -142,7 +142,7 @@ Check out the full documentation/project showcase on [The Garden!](https://happy
 
 See the [open issues](https://github.com/HappyPotatoHead/Cardiovascular-Risk-Analysis/issues) for a full list of proposed features (and known issues).
 
-<p align="right">(<a href="#readme-top">Back to top</a>)</p>
+<p align="right"><a href="#readme-top">Back to top</a></p>
 
 
 
@@ -160,7 +160,7 @@ Don't forget to give the project a star! Thanks again!
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-<p align="right">(<a href="#readme-top">Back to top</a>)</p>
+<p align="right"><a href="#readme-top">Back to top</a></p>
 
 ### Top contributors:
 
@@ -175,7 +175,7 @@ Don't forget to give the project a star! Thanks again!
 
 Distributed under the project_license. See `LICENSE.txt` for more information.
 
-<p align="right">(<a href="#readme-top">Back to top</a>)</p>
+<p align="right"><a href="#readme-top">Back to top</a></p>
 
 
 
@@ -186,7 +186,7 @@ Jimmy Ding - jimmydingjk@gmail.com
 
 Project Link: [https://github.com/HappyPotatoHead/Cardiovascular-Risk-Analysis](https://github.com/HappyPotatoHead/Cardiovascular-Risk-Analysis)
 
-<p align="right">(<a href="#readme-top">Back to top</a>)</p>
+<p align="right"><a href="#readme-top">Back to top</a></p>
 
 
 
@@ -197,7 +197,7 @@ Project Link: [https://github.com/HappyPotatoHead/Cardiovascular-Risk-Analysis](
 * []()
 * []() -->
 
-<p align="right">(<a href="#readme-top">Back to top</a>)</p>
+<!-- <p align="right"><a href="#readme-top">Back to top</a></p> -->
 
 This README template is taken from [othnieldrew](https://github.com/othneildrew/Best-README-Template) 
 
