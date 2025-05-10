@@ -107,7 +107,9 @@ A simple data science to get started in machine learning! For the full documenta
 
 ### Prerequisites
 
-Run `requirements.txt` to get the necessary libraries. (*They're the standard data science libraries. Any sufficiently updated version would do!*)
+Run `requirements.txt` to get the necessary libraries. 
+
+(*They're the standard data science libraries. Any sufficiently updated version would do!*)
 * Python
   ```sh
   pip install -r requirements.txt
@@ -123,7 +125,9 @@ Run `requirements.txt` to get the necessary libraries. (*They're the standard da
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Head to [analysis notebook](https://github.com/HappyPotatoHead/Cardiovascular-Risk-Analysis/blob/main/analysis.ipynb) to check out the analysis of the dataset - histograms, charts, and bivariate analyses. Head to the [models collection](https://github.com/HappyPotatoHead/Cardiovascular-Risk-Analysis/tree/main/models) to check out the implemented models.  
+[Analysis notebook](https://github.com/HappyPotatoHead/Cardiovascular-Risk-Analysis/blob/main/analysis.ipynb) to check out the analysis of the dataset - histograms, charts, and bivariate analyses
+
+[Models collection](https://github.com/HappyPotatoHead/Cardiovascular-Risk-Analysis/tree/main/models) to check out the implemented models.  
 
 Check out the full documentation/project showcase on [my project garden!](https://happypotatohead.github.io/project-garden/Data-Analysis--and--Machine-Learning/Cardiovascular-Risk-Analysis)
 
@@ -187,12 +191,12 @@ Project Link: [https://github.com/HappyPotatoHead/Cardiovascular-Risk-Analysis](
 
 
 
-<!-- ACKNOWLEDGMENTS -->
+<!-- ACKNOWLEDGMENTS
 ## Acknowledgments
 
 * []()
 * []()
-* []()
+* []() -->
 
 <p align="right">(<a href="#readme-top">Back to top</a>)</p>
 
@@ -202,23 +206,29 @@ Project Link: [https://github.com/HappyPotatoHead/Cardiovascular-Risk-Analysis](
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/HappyPotatoHead/Cardiovascular-Risk-Analysis.svg?style=for-the-badge
 [contributors-url]: https://github.com/HappyPotatoHead/Cardiovascular-Risk-Analysis/graphs/contributors
+
 [forks-shield]: https://img.shields.io/github/forks/HappyPotatoHead/Cardiovascular-Risk-Analysis.svg?style=for-the-badge
 [forks-url]: https://github.com/HappyPotatoHead/Cardiovascular-Risk-Analysis/network/members
+
 [stars-shield]: https://img.shields.io/github/stars/HappyPotatoHead/Cardiovascular-Risk-Analysis.svg?style=for-the-badge
 [stars-url]: https://github.com/HappyPotatoHead/Cardiovascular-Risk-Analysis/stargazers
+
 [issues-shield]: https://img.shields.io/github/issues/HappyPotatoHead/Cardiovascular-Risk-Analysis.svg?style=for-the-badge
 [issues-url]: https://github.com/HappyPotatoHead/Cardiovascular-Risk-Analysis/issues
+
 [license-shield]: https://img.shields.io/github/license/HappyPotatoHead/Cardiovascular-Risk-Analysis.svg?style=for-the-badge
 [license-url]: https://github.com/HappyPotatoHead/Cardiovascular-Risk-Analysis/blob/master/LICENSE.txt
+
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/jimmy-ding
+
 [product-screenshot]: images/screenshot.png
 
 [Python]: https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff
 [Python-url]: https://www.python.org/
 
-[Pandas]: https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff
-[Python-url]: https://pandas.pydata.org/
+[Pandas]: https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff
+[Pandas-url]: https://pandas.pydata.org/
 
 [Matplotlib]: https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&logoColor=fff
 [Matplotlib-url]: https://matplotlib.org/
