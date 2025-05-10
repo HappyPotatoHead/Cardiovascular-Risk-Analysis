@@ -86,8 +86,8 @@ A simple data science to get started in machine learning! For the full documenta
 
 * [![Python][Python]][Python-url]
 * [![Pandas][Pandas]][Pandas-url]
-* [![Python][NumPy]][NumPy-url]
-* [![Python][Matplotlib]][Matplotlib-url]
+* [![NumPy][NumPy]][NumPy-url]
+* [![Matplotlib][Matplotlib]][Matplotlib-url]
 
 <!-- * [![Next][Next.js]][Next-url]
 * [![React][React.js]][React-url]
