@@ -72,9 +72,9 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+<!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
 
-A simple data science to get started in machine learning! For the full documentation, visit [The project garden]("https://happypotatohead.github.io/project-garden/Data-Analysis--and--Machine-Learning/Cardiovascular-Risk-Analysis")
+A simple data science to get started in machine learning! For the full documentation, visit [The project garden](https://happypotatohead.github.io/project-garden/Data-Analysis--and--Machine-Learning/Cardiovascular-Risk-Analysis)
 
 
 <p align="right">(<a href="#readme-top">Back to top</a>)</p>
@@ -128,7 +128,7 @@ Run `requirements.txt` to get the necessary libraries.
 
 [Models collection](https://github.com/HappyPotatoHead/Cardiovascular-Risk-Analysis/tree/main/models) to check out the implemented models.  
 
-Check out the full documentation/project showcase on [my project garden!](https://happypotatohead.github.io/project-garden/Data-Analysis--and--Machine-Learning/Cardiovascular-Risk-Analysis)
+Check out the full documentation/project showcase on [The Garden!](https://happypotatohead.github.io/project-garden/Data-Analysis--and--Machine-Learning/Cardiovascular-Risk-Analysis)
 
 
 <p align="right">(<a href="#readme-top">Back to top</a>)</p>
