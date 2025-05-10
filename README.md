@@ -11,17 +11,16 @@
 <!-- [![Contributors][contributors-shield]][contributors-url] -->
 <!-- [![Forks][forks-shield]][forks-url] -->
 [![Stargazers][stars-shield]][stars-url]
-<!-- [![Issues][issues-shield]][issues-url] -->
 [![project_license][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
-
+<!-- [![Issues][issues-shield]][issues-url] -->
 
 
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
   <a href="https://github.com/HappyPotatoHead/Cardiovascular-Risk-Analysis">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="images/logo_light.png" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">Cardiovascular Risk Analysis</h3>
