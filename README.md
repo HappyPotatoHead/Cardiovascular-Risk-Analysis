@@ -216,7 +216,7 @@ This README template is taken from [othnieldrew](https://github.com/othneildrew/
 [issues-url]: https://github.com/HappyPotatoHead/Cardiovascular-Risk-Analysis/issues
 
 [license-shield]: https://img.shields.io/github/license/HappyPotatoHead/Cardiovascular-Risk-Analysis.svg?style=for-the-badge
-[license-url]: https://github.com/HappyPotatoHead/Cardiovascular-Risk-Analysis/blob/master/LICENSE.txt
+[license-url]: https://github.com/HappyPotatoHead/Cardiovascular-Risk-Analysis/blob/main/LICENSE.txt
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/jimmy-ding
